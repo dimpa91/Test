@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="139" viewBox="0 0 108 139">
+    <defs>
+        <linearGradient id="a" x1=".002%" x2="99.998%" y1="49.999%" y2="49.999%">
+            <stop offset="0%" stop-color="#E4FF2A"/>
+            <stop offset="100%" stop-color="#1FEF00"/>
+        </linearGradient>
+        <radialGradient id="b" cx="49.038%" cy="53.201%" r="59.433%" fx="49.038%" fy="53.201%" gradientTransform="matrix(1 0 0 .73413 0 .141)">
+            <stop offset="0%" stop-color="#00FF3B"/>
+            <stop offset="10.76%" stop-color="#00F544"/>
+            <stop offset="28.75%" stop-color="#00DC5C"/>
+            <stop offset="51.75%" stop-color="#00B283"/>
+            <stop offset="78.59%" stop-color="#0078B9"/>
+            <stop offset="100%" stop-color="#0045E9"/>
+        </radialGradient>
+        <radialGradient id="c" cx="48.032%" cy="66.955%" r="53.368%" fx="48.032%" fy="66.955%" gradientTransform="matrix(.87838 0 0 1 .058 0)">
+            <stop offset="0%" stop-color="#1500FF"/>
+            <stop offset="11.8%" stop-color="#1504FF"/>
+            <stop offset="24.35%" stop-color="#1411FF"/>
+            <stop offset="37.26%" stop-color="#1226FF"/>
+            <stop offset="50.42%" stop-color="#0F44FF"/>
+            <stop offset="63.77%" stop-color="#0C6BFF"/>
+            <stop offset="77.28%" stop-color="#089AFF"/>
+            <stop offset="90.67%" stop-color="#04D0FF"/>
+            <stop offset="100%" stop-color="#00FBFF"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M46.614 73.403L31.43 100.119h61.536l-30.9-53.7z"/>
+        <path fill="url(#a)" fill-rule="nonzero" d="M7.078 134.276l16.06-28.811H8.274l51.28-95.54 1.143-9.76L2.035 109.353h14.72L.23 139h4.45l2.353-4.651z"/>
+        <path fill="url(#b)" fill-rule="nonzero" d="M62.066 29.598L39.198 69.194l-17.593 30.925h-5.227l47.323-87.687.221-.248L61.407.38 60.253 11.12l.015.015v.277l-50.124 93.081H23.77L42.429 71.59v-.01l19.637-34.57 39.266 68.455H24.421L8.066 134.791l.01.107L6.003 139h4.05l16.532-29.647h81.184z"/>
+        <path fill="#26A9E0" fill-rule="nonzero" d="M42.472 71.58L62.09 37.19l39.242 68.455L62.09 37.097z"/>
+        <path fill="url(#c)" fill-rule="nonzero" d="M61.844 40L43.259 72.51 25 105h74L61.844 40zm-15.38 34.066l15.38-27.089 30.755 53.66H31.353l15.111-26.57z"/>
+    </g>
+</svg>
